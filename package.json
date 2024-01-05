@@ -1,0 +1,15 @@
+{
+  "name": "procuction_project",
+  "version": "1.0.0",
+  "description": "Full Production level project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "backend"
+  ],
+  "author": "cipher80",
+  "license": "ISC"
+}
