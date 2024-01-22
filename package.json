@@ -3,14 +3,17 @@
   "version": "1.0.0",
   "description": "Full Production level project",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
-    },
+  },
   "keywords": [
     "javaScript",
     "backend"
   ],
   "author": "cipher80",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.4"
+  }
 }
